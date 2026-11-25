@@ -10,8 +10,8 @@ To write a python program to perform stop and wait protocol
 6. Stop the Program
 ## PROGRAM
 
-Developed by : **KABELAN G K**<br>
-Reg No : **212224110027**
+Developed by : **KARTHIKA AJAN**<br>
+Reg No : **212225100021**
 
 ### Client
 ```python
@@ -42,6 +42,6 @@ while True:
 ```
 ## OUTPUT
 Refer to the screenshot below to see the program's output.
-![OutputScreenshot](output.png)
+<img width="1037" height="290" alt="Screenshot 2026-11-25 104326" src="https://github.com/user-attachments/assets/a092c682-debc-4e12-a518-6097432af77d" />
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
